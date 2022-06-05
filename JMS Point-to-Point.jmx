@@ -35,7 +35,7 @@
           <boolProp name="JMSSampler.useReqMsgIdAsCorrelId">true</boolProp>
           <stringProp name="JMSSampler.timeout"></stringProp>
           <stringProp name="JMSSampler.jmsNumberOfSamplesToAggregate">5</stringProp>
-          <stringProp name="HTTPSamper.xml_data">test</stringProp>
+          <stringProp name="HTTPSamper.xml_data">another message</stringProp>
           <stringProp name="JMSSampler.initialContextFactory">org.apache.activemq.jndi.ActiveMQInitialContextFactory</stringProp>
           <stringProp name="JMSSampler.contextProviderUrl">tcp://localhost:61616</stringProp>
           <elementProp name="JMSSampler.jndiProperties" elementType="Arguments" guiclass="ArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
